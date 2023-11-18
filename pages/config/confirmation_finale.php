@@ -1,4 +1,4 @@
-<!-- confirmation_finale.php -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
