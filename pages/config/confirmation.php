@@ -1,4 +1,4 @@
-<!-- confirmation.php -->
+
 <?php
 session_start();
 
