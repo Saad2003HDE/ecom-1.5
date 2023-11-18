@@ -43,7 +43,7 @@ $num_addresses = isset($_SESSION['num_addresses']) ? $_SESSION['num_addresses'] 
                     <select name="city_<?php echo $i; ?>">
                         <option value="Montreal">Montreal</option>
                         <option value="Laval">Laval</option>
-                        <!-- Ajoutez d'autres options ici -->
+                       
                     </select>
 
                     <label for="zipcode_<?php echo $i; ?>">Code postal :</label>
