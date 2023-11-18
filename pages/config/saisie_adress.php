@@ -1,4 +1,4 @@
-<!-- saisie_adresses.php -->
+
 <?php
 session_start();
 
